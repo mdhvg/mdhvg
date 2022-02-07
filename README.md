@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MadhavGoyal-6
+- 👋 Hi, I’m Madhav Goyal
 - 👀 I’m interested in Node.js
-- 🌱 I’m currently learning Node.js 😂
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Node.js😂 and Assembly💀
+- 📫 How to reach me - madhavgyl1@gmail.com
 
 <!---
 MadhavGoyal-6/MadhavGoyal-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
