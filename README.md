@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhav Goyal
 - 👀 I’m interested in Node.js
-- 🌱 I’m currently learning Node.js😂 and Assembly💀
+- 🌱 I’m currently learning Node.js😂 and C++😥
 - 📫 How to reach me - madhavgyl1@gmail.com
 
 <!---
