@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Madhav Goyal
-- 👀 I’m interested in Node.js
-- 🌱 I’m currently learning WebRTC and C++😥
+- 🌱 I’m currently learning Svelte
 - 📫 How to reach me - madhavgyl1@gmail.com
 
 [![An image of @madhav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhav)](https://holopin.io/@madhav)
