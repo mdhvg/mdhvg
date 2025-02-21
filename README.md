@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhav Goyal
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently working on [Semantic](https://github.com/mdhvg/semantic)
 - 📫 How to reach me - madhavgyl1@gmail.com
 
 [![An image of @madhav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhav)](https://holopin.io/@madhav)
